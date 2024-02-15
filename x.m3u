@@ -6,7 +6,7 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台",凤凰中文
 http://110.191.246.220:8888/udp/239.93.0.162:2192
 
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://mat1.gtimg.com/finance/wealthplatform/saas/screenshots/42509eb00cee860f03f7795b4fd48755.jpeg" group-title="港台",凤凰香港
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://live.fanmingming.com/tv/BloombergTV.png" group-title="国际",Bloomberg TV
