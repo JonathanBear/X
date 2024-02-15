@@ -1,16 +1,20 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港台",星空卫视
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台",凤凰中文
 http://110.191.246.220:8888/udp/239.93.0.162:2192
 
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://mat1.gtimg.com/finance/wealthplatform/saas/screenshots/42509eb00cee860f03f7795b4fd48755.jpeg" group-title="港台",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台",凤凰香港
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://live.fanmingming.com/tv/BloombergTV.png" group-title="国际",Bloomberg TV
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://live.fanmingming.com/tv/BloombergTV.png" group-title="国际",Bloomberg TV
+https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN国际.png" group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
@@ -18,25 +22,55 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 #EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://epg.112114.xyz/logo/NBCNEWS.png" group-title="国际",NBC News
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
 
-#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="国际",CBS News
+#EXTINF:-1 tvg-id="CBSNews BOSTON" tvg-name="CBSNews BOSTON" tvg-logo="https://www.cbsnews.com/assets/show/boston/logo-wide-transparent-500.svg" group-title="国际",CBS News BOSTON
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 
+
+#EXTINF:-1 tvg-id="CBSNews TEXAS" tvg-name="CBSNews TEXAS" tvg-logo="https://www.cbsnews.com/assets/show/texas/logo-wide-transparent-500.svg" group-title="国际",CBS News TEXAS
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+
+
+#EXTINF:-1 tvg-id="CBSNews LOS ANGELES" tvg-name="CBSNews LOS ANGELES" tvg-logo="https://www.cbsnews.com/assets/show/losangeles/logo-wide-transparent-500.svg" group-title="国际",CBS News LOS ANGELES
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+
+
+#EXTINF:-1 tvg-id="CBSNews COLORADO" tvg-name="CBSNews COLORADO" tvg-logo="https://www.cbsnews.com/assets/show/colorado/logo-wide-transparent-500.svg" group-title="国际",CBS News COLORADO
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+
+
+#EXTINF:-1 tvg-id="CBSNews DETROIT" tvg-name="CBSNews DETROIT" tvg-logo="https://www.cbsnews.com/assets/show/detroit/logo-wide-transparent-500.svg" group-title="国际",CBS News DETROIT
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+
+
+#EXTINF:-1 tvg-id="CBSNews PITTSBURGH" tvg-name="CBSNews PITTSBURGH" tvg-logo="https://www.cbsnews.com/assets/show/pittsburgh/logo-wide-transparent-500.svg" group-title="国际",CBS News PITTSBURGH
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews CHICAGO" tvg-name="CBSNews CHICAGO" tvg-logo="https://www.cbsnews.com/assets/show/chicago/logo-wide-transparent-500.svg" group-title="国际",CBS News CHICAGO
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+
+
+#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://bkimg.cdn.bcebos.com/pic/902397dda144ad34720c8b23d9a20cf430ad85e6" group-title="国际",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LNF.png" group-title="国际",Live Now FOX
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 group-title="国际",FOX Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+https://fox-foxsoul-samsungus.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/OAN.png" group-title="国际",One America News
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/OAN.png" group-title="国际",One America News 1080p
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_1080p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://epg.112114.xyz/logo/BBCNEWS.png" group-title="国际",BBC News HD
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="国际",RT News
@@ -61,11 +95,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:2
 http://203.162.235.41:15094/
 
 
-
-
-#EXTINF:-1 group-title="国际",AMC
+#EXTINF:-1 group-title="国际",tvg-logo="https://live.fanmingming.com/tv/AMC.png" AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-
 
 
 
