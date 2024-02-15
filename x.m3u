@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港台",星空卫视
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 
@@ -22,56 +21,66 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 #EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://epg.112114.xyz/logo/NBCNEWS.png" group-title="国际",NBC News
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
 
-#EXTINF:-1 tvg-id="CBSNews BOSTON" tvg-name="CBSNews BOSTON" tvg-logo="https://www.cbsnews.com/assets/show/boston/logo-wide-transparent-500.svg" group-title="国际",CBS News BOSTON
+#EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://thedesignlove.com/wp-content/uploads/2018/05/g1230.png" group-title="国际",NBC News
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+
+#EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://thedesignlove.com/wp-content/uploads/2018/05/g1222.png" group-title="国际",NBC News
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CBSNews BOSTON" tvg-name="CBSNews BOSTON" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/07/CBS_Boston_News_logo.png" group-title="国际",CBS News BOSTON
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
 
 
-#EXTINF:-1 tvg-id="CBSNews TEXAS" tvg-name="CBSNews TEXAS" tvg-logo="https://www.cbsnews.com/assets/show/texas/logo-wide-transparent-500.svg" group-title="国际",CBS News TEXAS
+#EXTINF:-1 tvg-id="CBSNews TEXAS" tvg-name="CBSNews TEXAS" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/07/CBS_11_News_logo-1536x755.png" group-title="国际",CBS News TEXAS
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 
 
-#EXTINF:-1 tvg-id="CBSNews LOS ANGELES" tvg-name="CBSNews LOS ANGELES" tvg-logo="https://www.cbsnews.com/assets/show/losangeles/logo-wide-transparent-500.svg" group-title="国际",CBS News LOS ANGELES
+#EXTINF:-1 tvg-id="CBSNews LOS ANGELES" tvg-name="CBSNews LOS ANGELES" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.db47aed37473e62f680be41c98c2f51e?rik=rLQXZxtjIRjTZA&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20101030164348%2flogopedia%2fimages%2f8%2f81%2fKCAL_9_logo.png&ehk=yVV4EF6GJrHz2vgVqowddLSSObjRSHk5umYdDvAoeU8%3d&risl=&pid=ImgRaw&r=0" group-title="国际",CBS News LOS ANGELES
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews LOS ANGELES" tvg-name="CBSNews LOS ANGELES" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-kcal-9.jpg" group-title="国际",CBS News LOS ANGELES
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 
 
-#EXTINF:-1 tvg-id="CBSNews COLORADO" tvg-name="CBSNews COLORADO" tvg-logo="https://www.cbsnews.com/assets/show/colorado/logo-wide-transparent-500.svg" group-title="国际",CBS News COLORADO
+#EXTINF:-1 tvg-id="CBSNews COLORADO" tvg-name="CBSNews COLORADO" tvg-logo="https://suburbanindyshows.com/wp-content/uploads/2017/08/cbs4-logo-square-horiz.png" group-title="国际",CBS News COLORADO
 https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
 
 
-#EXTINF:-1 tvg-id="CBSNews DETROIT" tvg-name="CBSNews DETROIT" tvg-logo="https://www.cbsnews.com/assets/show/detroit/logo-wide-transparent-500.svg" group-title="国际",CBS News DETROIT
+#EXTINF:-1 tvg-id="CBSNews DETROIT" tvg-name="CBSNews DETROIT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/WWJ_CBS_62_2016.svg/revision/latest?cb=20160913203603" group-title="国际",CBS News DETROIT
 https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
 
 
-#EXTINF:-1 tvg-id="CBSNews PITTSBURGH" tvg-name="CBSNews PITTSBURGH" tvg-logo="https://www.cbsnews.com/assets/show/pittsburgh/logo-wide-transparent-500.svg" group-title="国际",CBS News PITTSBURGH
+#EXTINF:-1 tvg-id="CBSNews PITTSBURGH" tvg-name="CBSNews PITTSBURGH" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.6527a385dc36d5e85a190f1a33cb530d?rik=D%2bpnzyHyXJQPww&riu=http%3a%2f%2fimg4.wikia.nocookie.net%2f__cb20131213063349%2flogopedia%2fimages%2f6%2f6e%2fKDKA.png&ehk=WzsfZmEiVzeRYDb4yzlhiu6A7punFey7hA2r1Y89uQc%3d&risl=&pid=ImgRaw&r=0" group-title="国际",CBS News PITTSBURGH
 https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 
-#EXTINF:-1 tvg-id="CBSNews CHICAGO" tvg-name="CBSNews CHICAGO" tvg-logo="https://www.cbsnews.com/assets/show/chicago/logo-wide-transparent-500.svg" group-title="国际",CBS News CHICAGO
+#EXTINF:-1 tvg-id="CBSNews CHICAGO" tvg-name="CBSNews CHICAGO" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/4b/0e/d9/4b0ed99c-b160-5478-1c12-a9fbc5f2b71c/source/1200x630bb.jpg" group-title="国际",CBS News CHICAGO
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
 
 
-#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://bkimg.cdn.bcebos.com/pic/902397dda144ad34720c8b23d9a20cf430ad85e6" group-title="国际",CBS News
+#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://www.parsatv.com/index_files/channels/cbsnews.jpg" group-title="国际",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LNF.png" group-title="国际",Live Now FOX
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/46/fd/4a/46fd4a89-fc14-5634-2ca6-63a10a8fa8d2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/300x300bb.jpg" group-title="国际",Live Now FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 group-title="国际",FOX Soul
+#EXTINF:-1 tvg-logo="https://hiphopwired.com/wp-content/uploads/sites/43/2020/01/15790321461929.png?resize=470%2C470&strip=all&quality=85" group-title="国际",FOX Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/OAN.png" group-title="国际",One America News
+#EXTINF:-1 tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.3RB6YIm63q3SC03D53z7CAHaEH?rs=1&pid=ImgDetMain" group-title="国际",One America News
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/OAN.png" group-title="国际",One America News 1080p
+#EXTINF:-1 tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.3RB6YIm63q3SC03D53z7CAHaEH?rs=1&pid=ImgDetMain" group-title="国际",One America News
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_1080p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://epg.112114.xyz/logo/BBCNEWS.png" group-title="国际",BBC News HD
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
 
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",CNA 
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="国际",CNA 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
 
 #EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
@@ -80,24 +89,31 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
 
+#EXTINF:-1 tvg-name="XITE" tvg-logo="https://mytransfer.be/wp-content/uploads/2019/03/Xite-NEW-logo19-grey.png" group-title="国际",XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="XITE" tvg-logo="https://www.allaccess.com/assets/img/editorial/raw/xi/XITEblack.jpg" group-title="国际",XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="国际",NHK World
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.7af109dd1ac52a8ed585935b006c49af?rik=7bdShrgZUPLMGA&riu=http%3a%2f%2fmms.businesswire.com%2fmedia%2f20170929005029%2fen%2f614181%2f5%2fNHK_WORLD_TV_LOGO_highres.jpg&ehk=dw37ibyAEzKPUb16EVgi0ysEDBps682cGn%2bBX156b8w%3d&risl=&pid=ImgRaw&r=0" group-title="国际",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-name="日本全天新聞" group-title="国际",日本全天新聞
+#EXTINF:-1 tvg-name="日本全天新聞" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.2c4c9a9af6817d6f8401272489e184f7?rik=nVJSndqMKvjBkA&riu=http%3a%2f%2fwww.ntvic.com%2fwp-content%2fthemes%2fsparkling%2fassets%2fimages%2flogo_ennews1.png&ehk=LUu6hL1xbfCgAvFYwO%2bafTNUg2jjV48oTT5foGxogx4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="国际",日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-name="日本电视台" group-title="国际",日本电视台
+#EXTINF:-1 tvg-name="日本电视台" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.7b7f1497a1cc9029734b17f1ede3ca27?rik=yUJlwqsmyPZ39g&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20140306155257%2flogopedia%2fimages%2f2%2f29%2fNTV2013.png&ehk=9%2b3Z4wdE19MxvfGS7QjngTVpJYqS4XXLRn4RIZwvlrU%3d&risl=&pid=ImgRaw&r=0" group-title="国际",日本电视台
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-name="Fuji TV 日本" group-title="国际",Fuji TV 日本
 http://203.162.235.41:15094/
 
 
-#EXTINF:-1 group-title="国际",tvg-logo="https://live.fanmingming.com/tv/AMC.png" AMC
+#EXTINF:-1 group-title="国际",tvg-logo="https://live.fanmingming.com/tv/AMC.png",AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
+#EXTINF:-1 group-title="国际",tvg-logo="https://television-plus.com/wp-content/uploads/2020/03/amc-1024x1024.png",AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
 
 #EXTINF:-1 group-title="国际",HoyTV
