@@ -12,18 +12,15 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://live.fanmingming.com/tv/BloombergTV.png" group-title="国际",Bloomberg TV
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://iconape.com/wp-content/files/qh/285537/svg/bloomberg-tv-logo-logo-icon-png-svg.png" group-title="国际",Bloomberg TV
-https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://th.bing.com/th/id/R.e4275d62ba38c50d6551441d78603516?rik=id%2bA1wMng%2fpjqw&riu=http%3a%2f%2fwww.livenewsmag.com%2fwp-content%2fuploads%2f2016%2f09%2fBloomberg-TV-News.png&ehk=1SSjLSX%2bQkVbobO8kPiqoF9VgQaaI%2boDfafPfebeKH4%3d&risl=&pid=ImgRaw&r=0" group-title="国际",Bloomberg TV
-https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN国际.png" group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
 #EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://epg.112114.xyz/logo/NBCNEWS.png" group-title="国际",NBC News
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+
+#EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://lh6.googleusercontent.com/-WT_-jRruRak-uC7ttzrkPP9_HAs9xZNxd5dIaTWHU1Q7nfgH9HXEatE2fitvGCn66EFnuz1wOpMIEpObFTwG3QbYgJRnVe8agZfh98-YYmhI3GHbbi1jr-7MImWo00LIA" group-title="国际",NBC News
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+
 
 #EXTINF:-1 tvg-id="CBSNews BOSTON" tvg-name="CBSNews BOSTON" tvg-logo="https://th.bing.com/th/id/R.d98c4fa317cfb1e2729e91134ead8484?rik=HCql5zazfAZykA&riu=http%3a%2f%2fwww.admetech.org%2fwp-content%2fuploads%2f2017%2f06%2fWBZ-TV-Boston-Logo-300x266.jpg&ehk=Q5HD81qZOOcsEi%2bSU8rlhGu1itlpxWIUWWEVS2Nce3s%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="国际",CBS News BOSTON
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
@@ -71,6 +68,9 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_1080p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://epg.112114.xyz/logo/BBCNEWS.png" group-title="国际",BBC News HD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
+
+#EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://logodix.com/logo/614731.png" group-title="国际",BBC News HD
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="国际",CNA 
