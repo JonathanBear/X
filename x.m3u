@@ -15,15 +15,6 @@ https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN国际.png" group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
-#EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://epg.112114.xyz/logo/NBCNEWS.png" group-title="国际",NBC News
-https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-
-#EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://www.clipartmax.com/png/middle/97-970053_nbc-nightly-news-logo-of-nbc.png" group-title="国际",NBC News
-https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-
-#EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://www.pngfind.com/pngs/m/411-4113924_nbc-peacock-logo-nbc-logo-2019-hd-png.png" group-title="国际",NBC News
-https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-
 #EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://vignette.wikia.nocookie.net/memoryalpha/images/9/97/NBC_logo.png/revision/latest/scale-to-width-down/496?cb=20120109171307&path-prefix=en" group-title="国际",NBC News
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
 
