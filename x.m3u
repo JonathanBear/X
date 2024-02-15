@@ -98,6 +98,12 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:2
 http://203.162.235.41:15094/
 
 
+#EXTINF:-1 group-title="影视",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.3f25388586dfadcef595dc4f535e53a9?rik=MboUBa5GoyvPSg&pid=ImgRaw&r=0",discover.film
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="国际",Animax
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="国际",tvg-logo="https://live.fanmingming.com/tv/AMC.png",AMC
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
