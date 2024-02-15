@@ -18,7 +18,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_10
 #EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://epg.112114.xyz/logo/NBCNEWS.png" group-title="国际",NBC News
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
 
-#EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://lh6.googleusercontent.com/-WT_-jRruRak-uC7ttzrkPP9_HAs9xZNxd5dIaTWHU1Q7nfgH9HXEatE2fitvGCn66EFnuz1wOpMIEpObFTwG3QbYgJRnVe8agZfh98-YYmhI3GHbbi1jr-7MImWo00LIA" group-title="国际",NBC News
+#EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://www.clipartmax.com/png/middle/97-970053_nbc-nightly-news-logo-of-nbc.png" group-title="国际",NBC News
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+
+#EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://www.pngfind.com/pngs/m/411-4113924_nbc-peacock-logo-nbc-logo-2019-hd-png.png" group-title="国际",NBC News
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+
+#EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://vignette.wikia.nocookie.net/memoryalpha/images/9/97/NBC_logo.png/revision/latest/scale-to-width-down/496?cb=20120109171307&path-prefix=en" group-title="国际",NBC News
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
 
 
