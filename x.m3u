@@ -1,127 +1,151 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="港台",星空卫视
+#EXTINF:-1 group-title="华语",tvg-logo="https://epg.112114.xyz/logo/星空卫视.png",星空卫视
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
-
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台",凤凰中文
+#EXTINF:-1 group-title="华语",tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰卫视中文台
 http://110.191.246.220:8888/udp/239.93.0.162:2192
-
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台",凤凰香港
+#EXTINF:-1 group-title="华语",tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png",凤凰卫视香港台
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 
-#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://live.fanmingming.com/tv/BloombergTV.png" group-title="国际",Bloomberg TV
+
+#EXTINF:-1 group-title="新闻",tvg-logo="https://live.fanmingming.com/tv/BloombergTV.png",Bloomberg TV
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://epg.112114.xyz/logo/CNN国际.png" group-title="国际",CNN
+#EXTINF:-1 group-title="新闻",tvg-logo="",Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://epg.112114.xyz/logo/CNN国际.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-
-#EXTINF:-1 tvg-id="NBCNEWS" tvg-name="NBCNEWS" tvg-logo="https://vignette.wikia.nocookie.net/memoryalpha/images/9/97/NBC_logo.png/revision/latest/scale-to-width-down/496?cb=20120109171307&path-prefix=en" group-title="国际",NBC News
+#EXTINF:-1 group-title="新闻",tvg-logo="https://epg.112114.xyz/logo/CNN国际.png",CNN
+https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://vignette.wikia.nocookie.net/memoryalpha/images/9/97/NBC_logo.png/revision/latest/scale-to-width-down/496?cb=20120109171307&path-prefix=en",NBC News
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-
-
-#EXTINF:-1 tvg-id="CBSNews BOSTON" tvg-name="CBSNews BOSTON" tvg-logo="https://th.bing.com/th/id/R.d98c4fa317cfb1e2729e91134ead8484?rik=HCql5zazfAZykA&riu=http%3a%2f%2fwww.admetech.org%2fwp-content%2fuploads%2f2017%2f06%2fWBZ-TV-Boston-Logo-300x266.jpg&ehk=Q5HD81qZOOcsEi%2bSU8rlhGu1itlpxWIUWWEVS2Nce3s%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="国际",CBS News BOSTON
-https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-
-
-#EXTINF:-1 tvg-id="CBSNews TEXAS" tvg-name="CBSNews TEXAS" tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/07/CBS_11_News_logo-1536x755.png" group-title="国际",CBS News TEXAS
-https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-
-
-#EXTINF:-1 tvg-id="CBSNews LOS ANGELES" tvg-name="CBSNews LOS ANGELES" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.db47aed37473e62f680be41c98c2f51e?rik=rLQXZxtjIRjTZA&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20101030164348%2flogopedia%2fimages%2f8%2f81%2fKCAL_9_logo.png&ehk=yVV4EF6GJrHz2vgVqowddLSSObjRSHk5umYdDvAoeU8%3d&risl=&pid=ImgRaw&r=0" group-title="国际",CBS News LOS ANGELES
-https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="CBSNews COLORADO" tvg-name="CBSNews COLORADO" tvg-logo="https://suburbanindyshows.com/wp-content/uploads/2017/08/cbs4-logo-square-horiz.png" group-title="国际",CBS News COLORADO
-https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
-
-
-#EXTINF:-1 tvg-id="CBSNews DETROIT" tvg-name="CBSNews DETROIT" tvg-logo="https://tvbix.com/images/channels/cbs-62-detroit.png" group-title="国际",CBS News DETROIT
-https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
-
-
-#EXTINF:-1 tvg-id="CBSNews PITTSBURGH" tvg-name="CBSNews PITTSBURGH" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.6527a385dc36d5e85a190f1a33cb530d?rik=D%2bpnzyHyXJQPww&riu=http%3a%2f%2fimg4.wikia.nocookie.net%2f__cb20131213063349%2flogopedia%2fimages%2f6%2f6e%2fKDKA.png&ehk=WzsfZmEiVzeRYDb4yzlhiu6A7punFey7hA2r1Y89uQc%3d&risl=&pid=ImgRaw&r=0" group-title="国际",CBS News PITTSBURGH
-https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
-
-#EXTINF:-1 tvg-id="CBSNews CHICAGO" tvg-name="CBSNews CHICAGO" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/4b/0e/d9/4b0ed99c-b160-5478-1c12-a9fbc5f2b71c/source/1200x630bb.jpg" group-title="国际",CBS News CHICAGO
-https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-
-
-#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://www.parsatv.com/index_files/channels/cbsnews.jpg" group-title="国际",CBS News
+#EXTINF:-1 group-title="新闻",tvg-logo="https://www.parsatv.com/index_files/channels/cbsnews.jpg",CBSNews
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/46/fd/4a/46fd4a89-fc14-5634-2ca6-63a10a8fa8d2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/300x300bb.jpg" group-title="国际",Live Now FOX
+#EXTINF:-1 group-title="新闻",tvg-logo="https://th.bing.com/th/id/R.d98c4fa317cfb1e2729e91134ead8484?rik=HCql5zazfAZykA&riu=http%3a%2f%2fwww.admetech.org%2fwp-content%2fuploads%2f2017%2f06%2fWBZ-TV-Boston-Logo-300x266.jpg&ehk=Q5HD81qZOOcsEi%2bSU8rlhGu1itlpxWIUWWEVS2Nce3s%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",CBSNews BOSTON
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://livenewsglobe.com/wp-content/uploads/2020/07/CBS_11_News_logo-1536x755.png",CBSNews TEXAS
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.db47aed37473e62f680be41c98c2f51e?rik=rLQXZxtjIRjTZA&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20101030164348%2flogopedia%2fimages%2f8%2f81%2fKCAL_9_logo.png&ehk=yVV4EF6GJrHz2vgVqowddLSSObjRSHk5umYdDvAoeU8%3d&risl=&pid=ImgRaw&r=0",CBSNews LOS ANGELES
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://suburbanindyshows.com/wp-content/uploads/2017/08/cbs4-logo-square-horiz.png",CBSNews COLORADO
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://tvbix.com/images/channels/cbs-62-detroit.png",CBSNews DETROIT
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.6527a385dc36d5e85a190f1a33cb530d?rik=D%2bpnzyHyXJQPww&riu=http%3a%2f%2fimg4.wikia.nocookie.net%2f__cb20131213063349%2flogopedia%2fimages%2f6%2f6e%2fKDKA.png&ehk=WzsfZmEiVzeRYDb4yzlhiu6A7punFey7hA2r1Y89uQc%3d&risl=&pid=ImgRaw&r=0",CBSNews PITTSBURGH
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/4b/0e/d9/4b0ed99c-b160-5478-1c12-a9fbc5f2b71c/source/1200x630bb.jpg",CBSNews CHICAGO
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/46/fd/4a/46fd4a89-fc14-5634-2ca6-63a10a8fa8d2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/300x300bb.jpg",Live Now FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://hiphopwired.com/wp-content/uploads/sites/43/2020/01/15790321461929.png?resize=470%2C470&strip=all&quality=85" group-title="国际",FOX Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.3RB6YIm63q3SC03D53z7CAHaEH?rs=1&pid=ImgDetMain" group-title="国际",One America News
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.3RB6YIm63q3SC03D53z7CAHaEH?rs=1&pid=ImgDetMain" group-title="国际",One America News 1080P
+#EXTINF:-1 group-title="新闻",tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.3RB6YIm63q3SC03D53z7CAHaEH?rs=1&pid=ImgDetMain",One America News
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_1080p/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://epg.112114.xyz/logo/BBCNEWS.png" group-title="国际",BBC News HD
+#EXTINF:-1 group-title="新闻",tvg-logo="",CBC News
+https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="",YTY
+https://tyt-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://epg.112114.xyz/logo/BBCNEWS.png",BBC News
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
-
-#EXTINF:-1 tvg-id="BBC News HD" tvg-name="BBC News HD" tvg-logo="https://logodix.com/logo/614731.png" group-title="国际",BBC News HD
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
-
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="国际",CNA 
+#EXTINF:-1 group-title="新闻",tvg-logo="",EuroNews
+https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-
-#EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="国际",RT News
+#EXTINF:-1 group-title="新闻",tvg-logo="https://epg.112114.xyz/logo/ru/rt.png",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-
-#EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="国际",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-
-
-#EXTINF:-1 tvg-name="XITE" tvg-logo="https://mytransfer.be/wp-content/uploads/2019/03/Xite-NEW-logo19-grey.png" group-title="国际",XITE
-https://xite-samsung-de.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://www.coolstreaming.us/img/ch/image95328191203.jpg" group-title="国际",NHK World
+#EXTINF:-1 group-title="新闻",tvg-logo="https://www.coolstreaming.us/img/ch/image95328191203.jpg",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
-
-#EXTINF:-1 tvg-name="日本全天新聞" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.2c4c9a9af6817d6f8401272489e184f7?rik=nVJSndqMKvjBkA&riu=http%3a%2f%2fwww.ntvic.com%2fwp-content%2fthemes%2fsparkling%2fassets%2fimages%2flogo_ennews1.png&ehk=LUu6hL1xbfCgAvFYwO%2bafTNUg2jjV48oTT5foGxogx4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="国际",日本全天新聞
+#EXTINF:-4 group-title="新闻",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.2c4c9a9af6817d6f8401272489e184f7?rik=nVJSndqMKvjBkA&riu=http%3a%2f%2fwww.ntvic.com%2fwp-content%2fthemes%2fsparkling%2fassets%2fimages%2flogo_ennews1.png&ehk=LUu6hL1xbfCgAvFYwO%2bafTNUg2jjV48oTT5foGxogx4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
-#EXTINF:-1 tvg-name="日本电视台" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.7b7f1497a1cc9029734b17f1ede3ca27?rik=yUJlwqsmyPZ39g&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20140306155257%2flogopedia%2fimages%2f2%2f29%2fNTV2013.png&ehk=9%2b3Z4wdE19MxvfGS7QjngTVpJYqS4XXLRn4RIZwvlrU%3d&risl=&pid=ImgRaw&r=0" group-title="国际",日本电视台
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 tvg-name="Fuji TV 日本" group-title="国际",Fuji TV 日本
-http://203.162.235.41:15094/
 
 
 #EXTINF:-1 group-title="影视",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.3f25388586dfadcef595dc4f535e53a9?rik=MboUBa5GoyvPSg&pid=ImgRaw&r=0",discover.film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="国际",Animax
+#EXTINF:-2 group-title="影视",tvg-logo="https://live.fanmingming.com/tv/AMC.png",AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 group-title="影视",tvg-logo="",MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="影视",tvg-logo="",MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="影视",tvg-logo="",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="影视",tvg-logo="",Cbeebies UK
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="影视",tvg-logo="",Zoo Moo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="影视",tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645",Animax
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="国际",tvg-logo="https://live.fanmingming.com/tv/AMC.png",AMC
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
-#EXTINF:-1 group-title="国际",HoyTV
+
+
+#EXTINF:-1 group-title="生活",tvg-logo="https://hiphopwired.com/wp-content/uploads/sites/43/2020/01/15790321461929.png?resize=470%2C470&strip=all&quality=85",FOX Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="https://mytransfer.be/wp-content/uploads/2019/03/Xite-NEW-logo19-grey.png",XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="",Fashion TV
+https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="",Drybarcomedy
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="",Qello Concerts
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="https://live.fanmingming.com/tv/RTDoc.png",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="",Pulse TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="",Timeline
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="",Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="",Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="美食",tvg-logo="",Bon Appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="美食",tvg-logo="",Tastemade
+https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="美食",tvg-logo="",GustoTV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="运动",tvg-logo="",TENNIS
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="运动",tvg-logo="",EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="运动",tvg-logo="",EDGEsport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="运动",tvg-logo="",TUDN
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 group-title="运动",tvg-logo="https://i.imgur.com/LiExax0.png",FOOTBALL
+http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUlcCV1tUB1sAVFRXAFYEDwkHBVcFA1YaShpGQUQDVlVuXFUXAw4DWgEOHRYTFVREbghRQw0UUQhVCgMXGkRDUVxQEw8IAQVWDgUIAlFUHRRBCFFDDRRVDlEBFxkUA09MVEdfVFVpUQdBXlJRRFxfQ10NGUNYWDtcA1VUW1JEDRoAFx0XUEVFQA1ZRFgKShNUWBVHAENTRgJECw0MAEQbGlJaRFtNRExADRVzcERKE1NJFVAPRF8LVkQCF0FFRBsaWEZuR1xFQRBSVlxRFEQLFAFDGUNaVxxnBVdbW1MFQ1FeW0IXAxQBQBsVXFsID0VZQz5FCFMUXhpeDgMBD0RK
+#EXTINF:-1 group-title="运动",tvg-logo="",PAC12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="日本电视台" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.7b7f1497a1cc9029734b17f1ede3ca27?rik=yUJlwqsmyPZ39g&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20140306155257%2flogopedia%2fimages%2f2%2f29%2fNTV2013.png&ehk=9%2b3Z4wdE19MxvfGS7QjngTVpJYqS4XXLRn4RIZwvlrU%3d&risl=&pid=ImgRaw&r=0" group-title="TBD",日本电视台
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-name="Fuji TV 日本" group-title="TBD",Fuji TV 日本
+http://203.162.235.41:15094/
+
+
+
+
+
+#EXTINF:-1 group-title="TBD",HoyTV
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 
 
-#EXTINF:-1 group-title="国际",Wild Earth
+#EXTINF:-1 group-title="TBD",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
-#EXTINF:-1 group-title="国际",Wild Planet
+#EXTINF:-1 group-title="TBD",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FN.png" group-title="国际",Fight Network
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FN.png" group-title="TBD",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LiExax0.png" group-title="国际",Football
-http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUlcCV1tUB1sAVFRXAFYEDwkHBVcFA1YaShpGQUQDVlVuXFUXAw4DWgEOHRYTFVREbghRQw0UUQhVCgMXGkRDUVxQEw8IAQVWDgUIAlFUHRRBCFFDDRRVDlEBFxkUA09MVEdfVFVpUQdBXlJRRFxfQ10NGUNYWDtcA1VUW1JEDRoAFx0XUEVFQA1ZRFgKShNUWBVHAENTRgJECw0MAEQbGlJaRFtNRExADRVzcERKE1NJFVAPRF8LVkQCF0FFRBsaWEZuR1xFQRBSVlxRFEQLFAFDGUNaVxxnBVdbW1MFQ1FeW0IXAxQBQBsVXFsID0VZQz5FCFMUXhpeDgMBD0RK
 
 
 
@@ -137,18 +161,19 @@ http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUl
 
 
 
-#EXTINF:-1 tvg-id="ABCNEWS" tvg-name="ABCNEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际",ABC News
+
+#EXTINF:-1 tvg-id="ABCNEWS" tvg-name="ABCNEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="TBD",ABC News
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBSKids" tvg-logo="https://epg.112114.xyz/logo/PK.png" group-title="国际",PBS Kids
+#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBSKids" tvg-logo="https://epg.112114.xyz/logo/PK.png" group-title="TBD",PBS Kids
 http://38.96.178.201:80/live/PBSKIDS/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际",Disney Channel
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="TBD",Disney Channel
 http://38.96.178.201:80/live/Disney/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际",Disney International
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="TBD",Disney International
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 
 
@@ -156,25 +181,25 @@ http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 
 
 
-#EXTINF:-1 tvg-id="ESPNNews" tvg-name="ESPNNews" tvg-logo="https://epg.112114.xyz/logo/ESPNNEWS.png" group-title="国际",ESPN News
+#EXTINF:-1 tvg-id="ESPNNews" tvg-name="ESPNNews" tvg-logo="https://epg.112114.xyz/logo/ESPNNEWS.png" group-title="TBD",ESPN News
 http://38.96.178.201:80/live/ESPNews/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="国际",Newsmax
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="TBD",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DubaiONe" tvg-name="DubaiOne" tvg-logo="https://i.ibb.co/ZMpn1rR/IMG-20240126-093957.png" group-title="国际",Dubai One 
+#EXTINF:-1 tvg-id="DubaiONe" tvg-name="DubaiOne" tvg-logo="https://i.ibb.co/ZMpn1rR/IMG-20240126-093957.png" group-title="TBD",Dubai One 
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeeraEnglish" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="国际",Al Jazeera
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeeraEnglish" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="TBD",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="CBNNews.us" tvg-name="CBNNews" tvg-logo="https://epg.112114.xyz/logo/CBNNEWS.png" group-title="国际",CBN News
+#EXTINF:-1 tvg-id="CBNNews.us" tvg-name="CBNNews" tvg-logo="https://epg.112114.xyz/logo/CBNNEWS.png" group-title="TBD",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="国际",GB News
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="TBD",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 
@@ -182,103 +207,100 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="国际",Brics Chinese 
+#EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="TBD",Brics Chinese 
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="国际",Brics English 
+#EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="TBD",Brics English 
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="国际",TRT World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="TBD",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="国际",Taiwan Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="TBD",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="国际",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="TBD",Animal Planet
 http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://epg.112114.xyz/logo/Love Nature.png" group-title="国际",Love Nature
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://epg.112114.xyz/logo/Love Nature.png" group-title="TBD",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://epg.112114.xyz/logo/FOOD.png" group-title="国际",Food Network
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://epg.112114.xyz/logo/FOOD.png" group-title="TBD",Food Network
 http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/discovery.png" group-title="国际",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/discovery.png" group-title="TBD",Discovery Channel
 http://38.96.178.201:80/live/Discovery/index.m3u8
 
-#EXTINF:-1,tvg-id="Disney,XD",tvg-name="Disney,XD",tvg-logo="https://epg.112114.xyz/logo/DISNEYXD.png",group-title="国际",Disney XD
+#EXTINF:-1,tvg-id="Disney,XD",tvg-name="Disney,XD",tvg-logo="https://epg.112114.xyz/logo/DISNEYXD.png",group-title="TBD",Disney XD
 http://38.96.178.201:80/live/DisneyXD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/1_190.jpg" group-title="国际",Cartoon Network
+#EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/1_190.jpg" group-title="TBD",Cartoon Network
 http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220545963180_45.png" group-title="国际",Fashion TV
+#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220545963180_45.png" group-title="TBD",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304234949121822_43.png" group-title="国际",ESPN HD
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304234949121822_43.png" group-title="TBD",ESPN HD
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 
-#EXTINF:-1 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://epg.112114.xyz/logo/ARIRANGTV.png" group-title="国际",Arirang
+#EXTINF:-1 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://epg.112114.xyz/logo/ARIRANGTV.png" group-title="TBD",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="国际",NBA
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="TBD",NBA
 http://38.96.178.201/live/NBA/index.m3u8
 
 
-#EXTINF:-1 tvg-id="History" tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="国际",History
+#EXTINF:-1 tvg-id="History" tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="TBD",History
 http://38.96.178.201:80/live/History/index.m3u8
 
-#EXTINF:-1 tvg-id="SYFY" tvg-logo="https://epg.112114.xyz/logo/SYFY.png" group-title="国际",SYFY
+#EXTINF:-1 tvg-id="SYFY" tvg-logo="https://epg.112114.xyz/logo/SYFY.png" group-title="TBD",SYFY
 http://38.96.178.201:80/live/SYFYHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="国际",Star Movies
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="TBD",Star Movies
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="国际",Movies Now
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="TBD",Movies Now
 http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 group-title="国际",Cinemax East
+#EXTINF:-1 group-title="TBD",Cinemax East
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 
-#EXTINF:-1 group-title="国际",Universal Televison
+#EXTINF:-1 group-title="TBD",Universal Televison
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-#EXTINF:-1 group-title="国际",A&E
+#EXTINF:-1 group-title="TBD",A&E
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 
-#EXTINF:-1 group-title="国际",HBO HD 1
+#EXTINF:-1 group-title="TBD",HBO HD 1
 http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 
-#EXTINF:-1 group-title="国际",HBO HD 2
+#EXTINF:-1 group-title="TBD",HBO HD 2
 http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 
-#EXTINF:-1 group-title="国际",HBO HD 3
+#EXTINF:-1 group-title="TBD",HBO HD 3
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 
-#EXTINF:-1 group-title="国际",HBO Plus
+#EXTINF:-1 group-title="TBD",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 group-title="国际",HBO West
+#EXTINF:-1 group-title="TBD",HBO West
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
 
-#EXTINF:-1 group-title="国际",HBO 2
+#EXTINF:-1 group-title="TBD",HBO 2
 http://170.254.18.106/HBO2/index.m3u8
 
-#EXTINF:-1 group-title="国际",HBO Family
+#EXTINF:-1 group-title="TBD",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 group-title="国际",HBO Signature
+#EXTINF:-1 group-title="TBD",HBO Signature
 http://170.254.18.106/HBO_SIG/index.m3u8
 
-#EXTINF:-1 group-title="国际",Flix HD
+#EXTINF:-1 group-title="TBD",Flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
 
-#EXTINF:-1 group-title="国际",EZTV 1
+#EXTINF:-1 group-title="TBD",EZTV 1
 http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 
-#EXTINF:-1 group-title="国际",EZTV 2
+#EXTINF:-1 group-title="TBD",EZTV 2
 http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 
-
-#EXTINF:-1 tvg-name="Bloomberg TV US" group-title="国际",Bloomberg TV US
-https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
