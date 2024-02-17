@@ -46,7 +46,7 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="新闻",tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="新闻",tvg-logo="https://www.pngfind.com/pngs/m/394-3948620_al-jazeera-png-transparent-al-jazeera-images-pluspng.png",Aljazeera
+#EXTINF:-1 group-title="新闻",tvg-logo="https://tse2-mm.cn.bing.net/th/id/OIP-C.pkZc3HL3swSx-ttmupXDQQHaHk?rs=1&pid=ImgDetMain",Aljazeera
 http://ye23.vip/z7z8/2021/kbs2020.php?id=6
 #EXTINF:-1 group-title="新闻",tvg-logo="https://epg.112114.xyz/logo/ru/rt.png",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
@@ -98,7 +98,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="生活",tvg-logo="",Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="生活",tvg-logo="https://tse1-mm.cn.bing.net/th/id/OIP-C.T5ureS2ySfE7bTXXGBaPGAHaEo?rs=1&pid=ImgDetMain",NHK World Premium
+#EXTINF:-1 group-title="生活",tvg-logo="https://tse4-mm.cn.bing.net/th/id/OIP-C.F9yuu33uEriayg7Pfu7WfgAAAA?rs=1&pid=ImgDetMain",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="生活",tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2015/09/KBS_World2.png",KBS World
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
@@ -111,18 +111,20 @@ https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 
 
-#EXTINF:-1 group-title="运动",tvg-logo="https://www.tennis.com/assets/logos/tennis-logo-desktop.svg",TENNIS
+#EXTINF:-1 group-title="运动",tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="运动",tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.JvsawWj8R3eHAt2qiSNS0QHaDU?rs=1&pid=ImgDetMain",EDGEsport
+#EXTINF:-1 group-title="运动",tvg-logo="https://www.parsatv.com/index_files/channels/edgesports.png",EDGEsport
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="运动",tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.JvsawWj8R3eHAt2qiSNS0QHaDU?rs=1&pid=ImgDetMain",EDGEsport
+#EXTINF:-1 group-title="运动",tvg-logo="https://www.parsatv.com/index_files/channels/edgesports.png",EDGEsport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="运动",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.67359bd47307f48200a6ad78e74dcc31?rik=GI%2fV37kVUFQOeA&pid=ImgRaw&r=0",TUDN
+#EXTINF:-1 group-title="运动",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.1c06b7fc0da730a809fab316c42be932?rik=4Ac7kMrICRhZFA&riu=http%3a%2f%2fcorporate.univision.com%2fnewco%2fwp-content%2fuploads%2f2019%2f05%2fTUDN_LOGO_COLOR.png&ehk=UGd%2fh0d8vaGxZ6qzNQP2Y1N%2fnLdjRKxfBfd27elY21I%3d&risl=&pid=ImgRaw&r=0",TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 group-title="运动",tvg-logo="https://i.imgur.com/LiExax0.png",FOOTBALL
 http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUlcCV1tUB1sAVFRXAFYEDwkHBVcFA1YaShpGQUQDVlVuXFUXAw4DWgEOHRYTFVREbghRQw0UUQhVCgMXGkRDUVxQEw8IAQVWDgUIAlFUHRRBCFFDDRRVDlEBFxkUA09MVEdfVFVpUQdBXlJRRFxfQ10NGUNYWDtcA1VUW1JEDRoAFx0XUEVFQA1ZRFgKShNUWBVHAENTRgJECw0MAEQbGlJaRFtNRExADRVzcERKE1NJFVAPRF8LVkQCF0FFRBsaWEZuR1xFQRBSVlxRFEQLFAFDGUNaVxxnBVdbW1MFQ1FeW0IXAxQBQBsVXFsID0VZQz5FCFMUXhpeDgMBD0RK
-#EXTINF:-1 group-title="运动",tvg-logo="https://pnghq.com/wp-content/uploads/pacific-12-conference-logo-png-vector-ai-free-download.png",PAC12 Insider
+#EXTINF:-1 group-title="运动",tvg-logo="https://cdn.teleon.tv/logo/pac-12-insider-us.png",PAC12 Insider
 https://pac12-samsungus.amagi.tv/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-name="日本电视台" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.7b7f1497a1cc9029734b17f1ede3ca27?rik=yUJlwqsmyPZ39g&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20140306155257%2flogopedia%2fimages%2f2%2f29%2fNTV2013.png&ehk=9%2b3Z4wdE19MxvfGS7QjngTVpJYqS4XXLRn4RIZwvlrU%3d&risl=&pid=ImgRaw&r=0" group-title="TBD",日本电视台
