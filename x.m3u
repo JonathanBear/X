@@ -8,7 +8,7 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 
 #EXTINF:-1 group-title="新闻",tvg-logo="https://live.fanmingming.com/tv/BloombergTV.png",Bloomberg TV
 https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="新闻",tvg-logo="",Yahoo! Finance
+#EXTINF:-1 group-title="新闻",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.c8d480ac7ae751aec143b60f0573825e?rik=7PZl%2f7nLjEESPA&pid=ImgRaw&r=0",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="新闻",tvg-logo="https://epg.112114.xyz/logo/CNN国际.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
@@ -36,22 +36,26 @@ https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="新闻",tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.3RB6YIm63q3SC03D53z7CAHaEH?rs=1&pid=ImgDetMain",One America News
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_1080p/playlist.m3u8
-#EXTINF:-1 group-title="新闻",tvg-logo="",CBC News
+#EXTINF:-1 group-title="新闻",tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/CBC-Television-Logo.png",CBC News
 https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
-#EXTINF:-1 group-title="新闻",tvg-logo="",YTY
+#EXTINF:-1 group-title="新闻",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.c8cd1931145f4c79e1164238c66f6829?rik=NOGT5TXnj1c%2b%2fA&riu=http%3a%2f%2fww1.prweb.com%2fprfiles%2f2012%2f02%2f14%2f9195065%2fThe+Young+Turks+White+on+Black+-+Logo.png&ehk=2JLBwMpzBTJRhQEya%2fQwpdvGmftqPIseNQ4uXs5WWJ4%3d&risl=&pid=ImgRaw&r=0",TYT
 https://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="新闻",tvg-logo="https://epg.112114.xyz/logo/BBCNEWS.png",BBC News
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
-#EXTINF:-1 group-title="新闻",tvg-logo="",EuroNews
+#EXTINF:-1 group-title="新闻",tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Euronews-en-directo-Online.png?w=1920&ssl=1",EuroNews
 https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="新闻",tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://www.pngfind.com/pngs/m/394-3948620_al-jazeera-png-transparent-al-jazeera-images-pluspng.png",Aljazeera
+http://ye23.vip/z7z8/2021/kbs2020.php?id=6
 #EXTINF:-1 group-title="新闻",tvg-logo="https://epg.112114.xyz/logo/ru/rt.png",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="新闻",tvg-logo="https://www.coolstreaming.us/img/ch/image95328191203.jpg",NHK World
+#EXTINF:-1 group-title="新闻",tvg-logo="https://www.coolstreaming.us/img/ch/image95328191203.jpg",NHK World Live
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-4 group-title="新闻",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.2c4c9a9af6817d6f8401272489e184f7?rik=nVJSndqMKvjBkA&riu=http%3a%2f%2fwww.ntvic.com%2fwp-content%2fthemes%2fsparkling%2fassets%2fimages%2flogo_ennews1.png&ehk=LUu6hL1xbfCgAvFYwO%2bafTNUg2jjV48oTT5foGxogx4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",日本全天新聞
+#EXTINF:-1 group-title="新闻",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.2c4c9a9af6817d6f8401272489e184f7?rik=nVJSndqMKvjBkA&riu=http%3a%2f%2fwww.ntvic.com%2fwp-content%2fthemes%2fsparkling%2fassets%2fimages%2flogo_ennews1.png&ehk=LUu6hL1xbfCgAvFYwO%2bafTNUg2jjV48oTT5foGxogx4%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 group-title="新闻",tvg-logo="https://cdn.mos.cms.futurecdn.net/vGETUo5z3KPqsFkvyHdvRm-1024-75.png",Estrella News
+https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="影视",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.3f25388586dfadcef595dc4f535e53a9?rik=MboUBa5GoyvPSg&pid=ImgRaw&r=0",discover.film
@@ -60,35 +64,33 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 #EXTINF:-1 group-title="影视",tvg-logo="",MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="影视",tvg-logo="",MyTime Movie Network
+#EXTINF:-1 group-title="影视",tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png",MyTime Movie Network
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="影视",tvg-logo="",Action Hollywood Movies
+#EXTINF:-1 group-title="影视",tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.lRNaTwA75_5aKw4HNyYaEgHaHa?rs=1&pid=ImgDetMain",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="影视",tvg-logo="",Cbeebies UK
+#EXTINF:-1 group-title="影视",tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/CBeebies-Logo.png",BBC Cbeebies
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="影视",tvg-logo="",Zoo Moo
+#EXTINF:-1 group-title="影视",tvg-logo="https://www.ipuntotv.com/IMAGES/Zoo-Moo-logo.png",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="影视",tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645",Animax
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
-
-
 
 
 #EXTINF:-1 group-title="生活",tvg-logo="https://hiphopwired.com/wp-content/uploads/sites/43/2020/01/15790321461929.png?resize=470%2C470&strip=all&quality=85",FOX Soul
 https://fox-foxsoul-samsungus.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="生活",tvg-logo="https://mytransfer.be/wp-content/uploads/2019/03/Xite-NEW-logo19-grey.png",XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="生活",tvg-logo="",Fashion TV
+#EXTINF:-1 group-title="生活",tvg-logo="https://www.nicepng.com/png/detail/28-286823_fashion-tv-channel-logo.png",Fashion TV
 https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="生活",tvg-logo="",Drybarcomedy
+#EXTINF:-1 group-title="生活",tvg-logo="https://vhx.imgix.net/drybarcomedy/assets/4a79b052-272f-474f-9f08-6ffcc6ea06e1-90cdd03e.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280",Drybarcomedy
 https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="生活",tvg-logo="",Qello Concerts
+#EXTINF:-1 group-title="生活",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.8ba3ef2e568e9c13319e44d6a27e0637?rik=4wMU1PSYT1%2f3zA&riu=http%3a%2f%2fwww.budgetearth.com%2fwp-content%2fuploads%2f2015%2f01%2fNew-Qello-Concerts-Logo.png&ehk=oMWiuQIBD02CQdSgE%2fAIdLhSUmMcNHXgpXHsHh0ySJ0%3d&risl=&pid=ImgRaw&r=0",Qello Concerts
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
-#EXTINF:-1 group-title="生活",tvg-logo="",Pet Club TV
+#EXTINF:-1 group-title="生活",tvg-logo="https://static.wixstatic.com/media/87eafa_3d2ddc19d02c4f518162895e88ae01bd~mv2.png/v1/fill/w_853,h_480,fp_0.50_0.50/87eafa_3d2ddc19d02c4f518162895e88ae01bd~mv2.png",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="生活",tvg-logo="https://live.fanmingming.com/tv/RTDoc.png",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="生活",tvg-logo="",Pulse TV
+#EXTINF:-1 group-title="生活",tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.aKCQzEQQ6LLBOIq2FbYt1wHaEK?rs=1&pid=ImgDetMain",Pulse TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="生活",tvg-logo="",Timeline
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
@@ -96,31 +98,31 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="生活",tvg-logo="",Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="https://tse1-mm.cn.bing.net/th/id/OIP-C.T5ureS2ySfE7bTXXGBaPGAHaEo?rs=1&pid=ImgDetMain",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="生活",tvg-logo="https://www.tvdigitaldivide.it/wp-content/uploads/2015/09/KBS_World2.png",KBS World
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
-#EXTINF:-1 group-title="美食",tvg-logo="",Bon Appétit
+#EXTINF:-1 group-title="美食",tvg-logo="https://image.roku.com/developer_channels/prod/ed6f9581682cd7725484b6eaa58eed84c0bd908baee4df5cbc0bbe69f886a53a.png",Bon Appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美食",tvg-logo="",Tastemade
+#EXTINF:-1 group-title="美食",tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.s89sc1Yi-lC7pd6w8J1PCQHaD4?rs=1&pid=ImgDetMain",Tastemade
 https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美食",tvg-logo="",GustoTV
+#EXTINF:-1 group-title="美食",tvg-logo="https://gustotv.com/wp-content/uploads/2023/08/ChTile_1920x1080_png.png",GustoTV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 
 
-
-
-#EXTINF:-1 group-title="运动",tvg-logo="",TENNIS
+#EXTINF:-1 group-title="运动",tvg-logo="https://www.tennis.com/assets/logos/tennis-logo-desktop.svg",TENNIS
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="运动",tvg-logo="",EDGEsport
+#EXTINF:-1 group-title="运动",tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.JvsawWj8R3eHAt2qiSNS0QHaDU?rs=1&pid=ImgDetMain",EDGEsport
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="运动",tvg-logo="",EDGEsport
+#EXTINF:-1 group-title="运动",tvg-logo="https://tse3-mm.cn.bing.net/th/id/OIP-C.JvsawWj8R3eHAt2qiSNS0QHaDU?rs=1&pid=ImgDetMain",EDGEsport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="运动",tvg-logo="",TUDN
+#EXTINF:-1 group-title="运动",tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.67359bd47307f48200a6ad78e74dcc31?rik=GI%2fV37kVUFQOeA&pid=ImgRaw&r=0",TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 group-title="运动",tvg-logo="https://i.imgur.com/LiExax0.png",FOOTBALL
 http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUlcCV1tUB1sAVFRXAFYEDwkHBVcFA1YaShpGQUQDVlVuXFUXAw4DWgEOHRYTFVREbghRQw0UUQhVCgMXGkRDUVxQEw8IAQVWDgUIAlFUHRRBCFFDDRRVDlEBFxkUA09MVEdfVFVpUQdBXlJRRFxfQ10NGUNYWDtcA1VUW1JEDRoAFx0XUEVFQA1ZRFgKShNUWBVHAENTRgJECw0MAEQbGlJaRFtNRExADRVzcERKE1NJFVAPRF8LVkQCF0FFRBsaWEZuR1xFQRBSVlxRFEQLFAFDGUNaVxxnBVdbW1MFQ1FeW0IXAxQBQBsVXFsID0VZQz5FCFMUXhpeDgMBD0RK
-#EXTINF:-1 group-title="运动",tvg-logo="",PAC12 Insider
+#EXTINF:-1 group-title="运动",tvg-logo="https://pnghq.com/wp-content/uploads/pacific-12-conference-logo-png-vector-ai-free-download.png",PAC12 Insider
 https://pac12-samsungus.amagi.tv/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-name="日本电视台" tvg-logo="https://ts1.cn.mm.bing.net/th/id/R-C.7b7f1497a1cc9029734b17f1ede3ca27?rik=yUJlwqsmyPZ39g&riu=http%3a%2f%2fimg1.wikia.nocookie.net%2f__cb20140306155257%2flogopedia%2fimages%2f2%2f29%2fNTV2013.png&ehk=9%2b3Z4wdE19MxvfGS7QjngTVpJYqS4XXLRn4RIZwvlrU%3d&risl=&pid=ImgRaw&r=0" group-title="TBD",日本电视台
@@ -303,4 +305,10 @@ http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac
 
 #EXTINF:-1 group-title="TBD",EZTV 2
 http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+
+
+
+
+
+
 
